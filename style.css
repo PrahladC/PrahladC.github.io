@@ -46,8 +46,9 @@
 body
    {
      font-family: TimesRoman, Helvetica;
-     text-align: center;
+     text-align: left;
      color:#ffffff;
+     background-image: linear-gradient(90deg, blue, green, yellow);
    }
    
 #nav {
